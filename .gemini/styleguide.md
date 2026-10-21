@@ -26,7 +26,7 @@ standards, API stability, and consistent behavior across supported environments.
 *   Is it aligned with TensorFlow’s scope and design goals?
 *   Does it introduce unnecessary scope or complexity?
 *   Does the benefit justify the long-term maintenance cost?
-*   **Action:** If not, clearly question the need for the change.
+*   **Action:** If not, clearly question the need for the change..
 
 ### 2. Challenge the Implementation
 
